@@ -16,3 +16,18 @@ encapsulation the open source-JsPlumb for project
 4.血缘继承：一般用于隐藏框，继承上一组件的输出字段
 
 设计思路：
+1.类设计
+  一：JSPlumlHelper
+      JSPlumb工具类，主要实现JSPlumb的基本操作（连线，添加锚点，删除连线等）
+  二：nodeContainer
+      用于保存与维护taskNode节点，内部用map来做存储
+  三：PointFactory
+      用来创建taskNode的锚点
+  四：nodeFactory
+      用来创建taskNode实例
+      
+ 类图示例
+  ![Aaron Swartz](https://github.com/oOKevinOo/myJsplumb/raw/master/myJSPlump/pic/classInfo.png)  
+  
+ 用例示例
+  ![Aaron Swartz](https://github.com/oOKevinOo/myJsplumb/raw/master/myJSPlump/pic/use case.png)  
