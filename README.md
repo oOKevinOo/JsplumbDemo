@@ -30,4 +30,4 @@ encapsulation the open source-JsPlumb for project
   ![Aaron Swartz](https://github.com/oOKevinOo/myJsplumb/raw/master/myJSPlump/pic/classInfo.png)  
   
  用例示例
-  ![Aaron Swartz](https://github.com/oOKevinOo/myJsplumb/raw/master/myJSPlump/pic/use case.png)  
+  ![Aaron Swartz](https://github.com/oOKevinOo/myJsplumb/raw/master/myJSPlump/pic/use%20case.png)  
